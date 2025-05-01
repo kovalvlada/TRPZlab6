@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\example",
+    "\\src\\main\\java\\com\\example\\weatherapp",
+    "\\src\\main\\java\\com\\example\\weatherapp\\Models",
+    "\\src\\main\\java\\com\\example\\weatherapp\\Repositories",
+    "\\src\\main\\java\\com\\example\\weatherapp\\Services"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\example\\weatherapp\\Services\\WeatherService.java",
+  "PreviewInSolutionExplorer": false
+}

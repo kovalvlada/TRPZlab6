@@ -1,0 +1,26 @@
+### Get all weather records
+GET http://localhost:8080/api/weather
+Accept: application/json
+### Get weather by ID
+GET http://localhost:8080/api/weather/1
+Accept: application/json
+### Create a new weather record
+POST http://localhost:8080/api/weather
+Content-Type: application/json
+
+{
+  "city": "Kyiv",
+  "temperature": 15.5,
+  "description": "Sunny"
+}
+### Update a weather record
+PUT http://localhost:8080/api/weather/1
+Content-Type: application/json
+
+{
+  "city": "Lviv",
+  "temperature": 10.0,
+  "description": "Cloudy"
+}
+### Delete a weather record
+DELETE http://localhost:8080/api/weather/1

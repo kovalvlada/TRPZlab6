@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WeatherApp",
+    "\\WeatherApp\\src",
+    "\\WeatherApp\\src\\test",
+    "\\WeatherApp\\src\\test\\java",
+    "\\WeatherApp\\src\\test\\java\\com",
+    "\\WeatherApp\\src\\test\\java\\com\\example",
+    "\\WeatherApp\\src\\test\\java\\com\\example\\weatherapp",
+    "\\WeatherApp\\src\\test\\java\\com\\example\\weatherapp\\Repositories",
+    "\\WeatherApp\\src\\test\\java\\com\\example\\weatherapp\\Services"
+  ],
+  "SelectedNode": "\\WeatherApp\\src\\test\\java\\com\\example\\weatherapp\\Services\\WeatherServiceTest.java",
+  "PreviewInSolutionExplorer": false
+}
